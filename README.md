@@ -7,13 +7,11 @@ Earthify Hacks 2.0 - https://earthify-hacks-2-0.devpost.com/
 &emsp;&emsp;Inspired by Jane Goodall braved a realm of unknowns to give the world a remarkable window into humankind’s closest living relatives. Through nearly 60 years of groundbreaking work, Dr. Jane Goodall has not only shown us the urgent need to protect chimpanzees from extinction; she has also redefined species conservation to include the needs of local people and the environment. Today she travels the world, speaking about the threats facing chimpanzees and environmental crises, urging each of us to take action on behalf of all living things and planet we share.
 
 ## What it does
-![monday4](https://user-images.githubusercontent.com/101945531/188835835-9e35619b-6900-47a6-bf16-de407707df72.JPG)
-&emsp;&emsp;In our project we are addressing  carbon emission control by calling volunteer for planting trees and data visualized about the participants using powerbi in a detailed view.
 
-![MONDAY2](https://user-images.githubusercontent.com/101945531/188608765-77e59e51-8b39-40e5-bd6d-978c491a3901.JPG)
+&emsp;&emsp;In our project we are addressing  carbon emission control by calling volunteer for planting trees and data visualized about the participants using powerbi in a detailed view.
 <li>**PowerBi:-**</li>
 &emsp;&emsp;Post Event submission data is visualized which analyze and explore data of participants which shows detailed view age, country wise their professional field and total fund collection.
-![MONDAY1](https://user-images.githubusercontent.com/101945531/188608855-87987e35-0beb-4e23-91c9-5a57e929337d.JPG)
+
 ## How we built it
 
 &emsp;&emsp;Built using Java, Html, Css for front end and back end data stored via form through sharepoint.
