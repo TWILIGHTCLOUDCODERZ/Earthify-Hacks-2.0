@@ -1,5 +1,7 @@
 # Earthify-Hacks-2.0
 Earthify Hacks 2.0 - https://earthify-hacks-2-0.devpost.com/
+Test app- https://twilightcloudcoderz.github.io/Earthify-Hacks-2.0/
+PowerBi-https://app.powerbi.com/reportEmbed?reportId=f70aecf4-e844-4b3d-a5c9-a4a1aab53700&autoAuth=true&ctid=a81c6778-50fd-4429-a1d0-4b842da62dda
 
 ## Inspiration
 &emsp;&emsp;Inspired by Mr.Beast- Team Trees, stylized as #TEAMTREES, is a collaborative fundraiser that raised 20 million U.S. dollars before the start of 2020 to plant 20 million trees. The initiative was started by American YouTubers MrBeast and Mark Rober, and was mostly supported by YouTubers.
@@ -7,6 +9,7 @@ Earthify Hacks 2.0 - https://earthify-hacks-2-0.devpost.com/
 &emsp;&emsp;Inspired by Jane Goodall braved a realm of unknowns to give the world a remarkable window into humankind’s closest living relatives. Through nearly 60 years of groundbreaking work, Dr. Jane Goodall has not only shown us the urgent need to protect chimpanzees from extinction; she has also redefined species conservation to include the needs of local people and the environment. Today she travels the world, speaking about the threats facing chimpanzees and environmental crises, urging each of us to take action on behalf of all living things and planet we share.
 
 ## What it does
+![earth1](https://user-images.githubusercontent.com/101945531/193435883-aec03aa4-b5ca-4b6e-b2e5-95092767b001.JPG)
 
 &emsp;&emsp;In our project we are addressing  carbon emission control by calling volunteer for planting trees and data visualized about the participants using powerbi in a detailed view.
 <li>**PowerBi:-**</li>
@@ -16,7 +19,8 @@ Earthify Hacks 2.0 - https://earthify-hacks-2-0.devpost.com/
 
 &emsp;&emsp;Built using Java, Html, Css for front end and back end data stored via form through sharepoint.
 
-![13](https://user-images.githubusercontent.com/101945531/188609659-05dd034f-a479-4a0d-a425-bb5f71d72677.jpg)
+![datapbi](https://user-images.githubusercontent.com/101945531/193435888-f7776a88-53ab-48ce-83cc-bac60796db25.JPG)
+
 ## Challenges we ran into
 &emsp;&emsp;Power query editor Dax formula quite made complex for output data visualization. 
 
